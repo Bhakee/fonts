@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'itc_franklin_gothic_stddemiCn';
-    src: url('itcfranklingothicstd-dmcd.woff2') format('woff2'),
-         url('itcfranklingothicstd-dmcd.woff') format('woff'),
-	 url('itcfranklingothicstd-dmcd.woff') format('otf');
+    src: url('https://raw.githubusercontent.com/Bhakee/fonts/0e9999e1235e91d4db46e311a3b2c30d46986ebf/itcfranklingothicstd-dmcd.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/Bhakee/fonts/0e9999e1235e91d4db46e311a3b2c30d46986ebf/itcfranklingothicstd-dmcd.woff') format('woff'),
+	 url('https://raw.githubusercontent.com/Bhakee/fonts/0e9999e1235e91d4db46e311a3b2c30d46986ebf/ITCFranklinGothicStd-DmCd.otf') format('otf');
     font-weight: normal;
     font-style: normal;
 
