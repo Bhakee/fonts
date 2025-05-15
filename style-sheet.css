@@ -1,7 +1,12 @@
 @font-face {
     font-family: 'itc_franklin_gothic_stddemiCn';
-    src: url(https://bhakee.github.io/fonts/itcfranklingothicstd-dmcd.woff2) format('woff2');
+    src: url(https://bhakee.github.io/fonts/ITCFranklinGothicStd-DmCd.otf) format('opentype');
     font-weight: normal;
     font-style: normal;
-
+}
+@font-face {
+    font-family: 'itc_franklin_gothic_stdBookCn';
+    src: url(https://bhakee.github.io/fonts/ITCFranklinGothicStd-BookCd.otf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
